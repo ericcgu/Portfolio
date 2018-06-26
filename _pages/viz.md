@@ -1,5 +1,5 @@
 ---
 layout: archive
 permalink: /viz/
-title: "Machine"
+title: "Data Visualization"
 author_profile: true
