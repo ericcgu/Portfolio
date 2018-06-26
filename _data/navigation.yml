@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Visualization"
-     url: /viz/
+    url: /viz/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
