@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Eric Gu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Cloud Data Engineer"
+  location         : "New York, NY"
   email            : "eric.changning.gu@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
