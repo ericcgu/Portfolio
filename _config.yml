@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Gu - A Cloud Data Engineering Portfolio"
+title                    : "Cloud Data Engineering Portfolio By Eric Gu"
 title_separator          : "-"
 name                     : "Eric Gu"
 description              : "Data Engineering Portfolio"
