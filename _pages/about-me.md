@@ -15,7 +15,7 @@ Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Profes
 # Skills
 
 ### Programming: 
-Python, Pandas, NumPy, Javascript / Vue.js
+Python, Pandas, NumPy, Javascript, Vue.js
 ### Data Science:
  Statistics, Probability and Machine Learning
 ### Visualization: 
