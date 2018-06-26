@@ -15,13 +15,21 @@ Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Profes
 
 # Skills
 
-## Programming: Advanced Python Pandas, NumPy
-## Data Science: Statistics, Probability and Machine Learning
-## Visualization: Dash, Plotly, Seaborn
+## Programming: 
+Advanced Python Pandas, NumPy
+## Data Science:
+ Statistics, Probability and Machine Learning
+## Visualization: 
+Dash, Plotly, Seaborn
 
-## Databases: Advanced SQL, DynamoDB (NoSQL)
-## Cloud: AWS, Infrastructure as Code, DevOps, CloudFormation
-## Web: Javascript / Vue.js
-## Big Data: Spark, Hadoop
-## Search: ElasticSearch and Kibana
+## Databases: 
+Advanced SQL, DynamoDB (NoSQL)
+## Cloud: 
+AWS, Infrastructure as Code, DevOps, CloudFormation
+## Web: 
+Javascript / Vue.js
+## Big Data: 
+Spark, Hadoop
+## Search: 
+ElasticSearch and Kibana
 
