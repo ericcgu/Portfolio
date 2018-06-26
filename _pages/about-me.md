@@ -5,7 +5,6 @@ header:
     image: "images/water.png"
 ---
 
-# Summary
 
 I am a Senior Data Engineer with a passion for Data Analysis and Visualization with Python, Machine Learning, Big Data and AWS Cloud.
 
@@ -15,21 +14,14 @@ Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Profes
 
 # Skills
 
-## Programming: 
-Advanced Python Pandas, NumPy
-## Data Science:
+### Programming: 
+Python, Pandas, NumPy, Javascript / Vue.js
+### Data Science:
  Statistics, Probability and Machine Learning
-## Visualization: 
+### Visualization: 
 Dash, Plotly, Seaborn
-
-## Databases: 
+### Databases: 
 Advanced SQL, DynamoDB (NoSQL)
-## Cloud: 
+### Cloud: 
 AWS, Infrastructure as Code, DevOps, CloudFormation
-## Web: 
-Javascript / Vue.js
-## Big Data: 
-Spark, Hadoop
-## Search: 
-ElasticSearch and Kibana
 
