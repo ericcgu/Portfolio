@@ -6,9 +6,8 @@ header:
 tags: [data science, viz, python]
 ---
 
-# Introduction to Python
 
-```Python
+```python
 import Dash
 big_data = 'cool'
 
