@@ -6,7 +6,7 @@ header:
 tags: [data science, viz, python]
 ---
 
-#Dash: A Powerful Data Visualization Library
+# Dash: A Powerful Data Visualization Library
 
 ```python
 import Dash
