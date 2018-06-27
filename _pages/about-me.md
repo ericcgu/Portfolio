@@ -25,3 +25,8 @@ Advanced SQL, DynamoDB (NoSQL)
 ### Cloud: 
 AWS, Infrastructure as Code, DevOps, CloudFormation
 
+# Education
+Boston University, B.A
+
+# Other
+US Citizen.
