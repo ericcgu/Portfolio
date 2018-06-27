@@ -28,5 +28,5 @@ AWS, Infrastructure as Code, DevOps, CloudFormation
 # Education
 Boston University, B.A
 
-# Other
+# Nationality
 US Citizen.
