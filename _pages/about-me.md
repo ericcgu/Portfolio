@@ -12,6 +12,8 @@ I have 9 years of experience in leading data-driven software development in fina
 
 Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Professional.
 
+Looking for new opportunities.
+
 
 # Skills
 
