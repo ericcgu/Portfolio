@@ -8,7 +8,7 @@ I am interested interested in the intersection of Data Science and Cloud. Data i
 
 I am a Senior Data Engineer with a passion for Data Analysis and Visualization with Python, Machine Learning, Big Data and AWS Cloud.
 
-9 years experience leading data-driven software development in financial services. 
+I have 9 years of experience in leading data-driven software development in financial services building trading systems in the hedge fund industry. 
 
 Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Professional.
 
@@ -16,7 +16,7 @@ Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Profes
 # Skills
 
 ### Programming: 
-Python, Pandas, NumPy, Javascript, Vue.js
+Python, Pandas, NumPy, Javascript, Vue.js, Learning React
 ### Data Science:
  Statistics, Probability and Machine Learning
 ### Visualization: 
