@@ -4,7 +4,7 @@ permalink: /about-me/
 header:
     image: "images/water.png"
 ---
-I am interested in marrying Cloud technology to democratize Data Analysis. Data is grower ever larger. Work that has been historically expensive and resource intensive (left to big organizations) can now be done with agility by small teams or even an individual.  
+I am interested interested in working in the intersection of Data Science and Cloud. Data is grower ever larger. Work that has been historically expensive and resource intensive (left to big organizations) can now be done with agility by small teams or even an individual.  
 
 I am a Senior Data Engineer with a passion for Data Analysis and Visualization with Python, Machine Learning, Big Data and AWS Cloud.
 
