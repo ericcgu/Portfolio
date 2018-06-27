@@ -1,6 +1,6 @@
 ---
 title: "How Companies can Save Money with Dash"
-date: 2018-06-28
+date: 2018-06-26
 header:
     image: "images/water.png"
 tags: [data science, viz, python]
