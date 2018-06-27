@@ -12,6 +12,7 @@ I am a Senior Data Engineer with a passion for Data Analysis and Visualization w
 
 Certified Amazon AWS DevOps Engineer Professional and Solutions Architect Professional.
 
+
 # Skills
 
 ### Programming: 
@@ -25,8 +26,10 @@ Advanced SQL, DynamoDB (NoSQL)
 ### Cloud: 
 AWS, Infrastructure as Code, DevOps, CloudFormation
 
+
 # Education
 Boston University, B.A
+
 
 # Nationality
 US Citizen.
