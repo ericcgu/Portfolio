@@ -2,13 +2,16 @@
 title: "How Companies can Save Money with Dash"
 date: 2018-06-26
 header:
-    image: "https://github.com/ericcgu/Data_Visualization/blob/master/crypto/crypto.png"
+    image: "images/water.png"
 tags: [data science, viz, python]
 ---
 
 # Dash: A Powerful Data Visualization Library
 
 testing 123
+
+Inline-style: 
+![alt text](https://github.com/ericcgu/Data_Visualization/blob/master/crypto/crypto.png "Logo Title Text 1")
 
 ```python
 import Dash
