@@ -11,7 +11,7 @@ tags: [data science, viz, python]
 testing 123
 
 Inline-style: 
-![Markdown Here logo](https://github.com/ericcgu/Data_Visualization/blob/master/crypto/crypto.png)
+![LTC/USD vs BTC/USD](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/crypto/crypto.png)
 
 
 ```python
