@@ -1,6 +1,7 @@
 ---
 title: "Future of Cryptocurrency?"
 date: 2018-06-26
+classes: wide
 header:
     image: "images/water.png"
 tags: [data-visualization]
