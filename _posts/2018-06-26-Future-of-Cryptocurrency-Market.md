@@ -14,7 +14,7 @@ Before November 2017, Litecoin (LTC), a fork of Bitcoin (BTC), followed a close 
 
 On December 10, 2017, Litecoin and Bitcoin diverged back to its normal relationship and the download trend ensued.
 
-As you can see as we move toward the secoond half of 2018, Litecoin is again beginning to diverge with Bitcoin as the price of Bitcoin falls at an accelerated rate.  
+As you can see as we move toward the second half of 2018, Litecoin is again beginning to diverge with Bitcoin as the price of Bitcoin falls at an accelerated rate.  
 
 Will we see another market turn as the two coins diverge or will the market continue to fall?
 
