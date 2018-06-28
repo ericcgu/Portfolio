@@ -11,7 +11,8 @@ tags: [data science, viz, python]
 testing 123
 
 Inline-style: 
-![alt text](https://github.com/ericcgu/Data_Visualization/blob/master/crypto/crypto.png "Logo Title Text 1")
+![Markdown Here logo](https://github.com/ericcgu/Data_Visualization/blob/master/crypto/crypto.png)
+
 
 ```python
 import Dash
