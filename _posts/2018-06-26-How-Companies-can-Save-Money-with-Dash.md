@@ -8,10 +8,7 @@ tags: [data science, viz, python]
 
 # Dash: A Powerful Data Visualization Library
 
-testing 123
-
-Inline-style: 
-![test](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/crypto/crypto.png)<!-- .element height="100%" width="100%" -->
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ericgu/3.embed"></iframe>
 
 
 ```python
