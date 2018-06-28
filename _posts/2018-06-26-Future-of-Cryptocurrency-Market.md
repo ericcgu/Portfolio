@@ -1,5 +1,5 @@
 ---
-title: "What is the future of the Cryptocurrency Market"
+title: "Future of Cryptocurrency?"
 date: 2018-06-26
 header:
     image: "images/water.png"
@@ -10,15 +10,17 @@ tags: [data science, viz, python]
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ericgu/3.embed"></iframe>
 
 
-Before November 2017, Litecoin, a fork of Bitcoin, followed a close relationship with Bitcoin. Within a month of litecoin's price action diverging with bitcoin, the market began heating up, ultimately reaching the all time high. 
+Before November 2017, Litecoin (LTC), a fork of Bitcoin (BTC), followed a close relationship with Bitcoin. Within a short period of Litecoin's price action diverging with Bitcoin, the market began heating up, ultimately approaching the all time high in December. 
 
 On December 10, 2018, Litecoin and Bitcoin diverged back to its normal relationship and the download trend ensued.
 
 As you can see as we move toward the secoond half of 2018, Litecoin is again beginning to diverge with Bitcoin as the price of Bitcoin falls at an accelerated rate.  
 
-Will we see another market turn as the two coins diverge?
+Will we see another market turn as the two coins diverge or will the market continue to fall?
 
-This quick visualization was built with quandl real time data using Bitfinix's API. 
+This quick visualization was built with Quandl real time data leveraging Bitfinix's API. 
+
+Disclaimer: This is not intended to be a serious and complete data science post but more of a fun curiousity as I have no background or knowledge in cryptocurrency.
 
 
 ```python
