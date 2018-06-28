@@ -2,11 +2,6 @@
 main:
   - title: "About Me"
     url: /about-me/
-  - title: "Data Visualization"
-    url: /data-visualization/
-  - title: "Data Analysis"
-    url: /data-analysis/
-  - title: "Big Data"
-    url: /big-data/
-  - title: "Cloud"
-    url: /cloud/
+  - title: "Portfolio"
+    url: /portfolio/
+
