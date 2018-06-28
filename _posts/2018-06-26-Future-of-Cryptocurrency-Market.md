@@ -20,8 +20,6 @@ Will we see another market turn as the two coins diverge or will the market cont
 
 This quick visualization was built with Quandl real time data leveraging Bitfinix's API. 
 
-Disclaimer: This is not intended to be a serious and complete data science post but more of a fun curiousity as I have no background or knowledge in cryptocurrency.
-
 
 ```python
 import configparser
