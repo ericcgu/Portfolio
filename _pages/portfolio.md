@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /cloud/
-title: "Cloud"
+permalink: /portfolio/
+title: "Portfolio"
 header:
     image: "images/water.png"
 author_profile: true

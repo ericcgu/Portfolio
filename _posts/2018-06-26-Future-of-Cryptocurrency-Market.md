@@ -3,7 +3,7 @@ title: "Future of Cryptocurrency?"
 date: 2018-06-26
 header:
     image: "images/water.png"
-tags: [data science, viz, python]
+tags: [viz]
 ---
 
 
