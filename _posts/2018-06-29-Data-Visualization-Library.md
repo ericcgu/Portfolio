@@ -8,7 +8,7 @@ tags: [data-visualization]
 ---
 
 
-## MapHeatMap
+## Map
 ![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/mapheatmap/mapheatmap.png)
 
 ## Scatterplot
