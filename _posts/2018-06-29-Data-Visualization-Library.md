@@ -7,5 +7,25 @@ header:
 tags: [data-visualization]
 ---
 
+# Data Visualization Library
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://github.com/ericcgu/Data_Visualization/blob/master/README.md"></iframe>
+## MapHeatMap
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/mapheatmap/mapheatmap.png)
+
+## Scatterplot
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/scatterplot/scatterplot.png)
+
+## LineChart
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/linechart/linechart.png)
+
+## LineChart-Crypto
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/crypto/crypto.png)
+
+## BarChart
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/barchart/barchart.png)
+
+## BarChart2
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/barchart/barchart2.png)
+
+## BubbleChart
+![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/bubblechart/bubblechart.png)
