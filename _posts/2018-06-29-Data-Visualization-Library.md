@@ -7,7 +7,6 @@ header:
 tags: [data-visualization]
 ---
 
-# Data Visualization Library
 
 ## MapHeatMap
 ![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/mapheatmap/mapheatmap.png)
