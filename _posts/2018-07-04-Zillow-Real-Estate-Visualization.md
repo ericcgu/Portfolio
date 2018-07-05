@@ -9,7 +9,7 @@ tags: [data-visualization]
 
 
 
-An interactive and reactive dashboard using live Real Estate Metrics from Quandl/Zillow API to compare real estate metrics for the last 5 years.
+An interactive and reactive dashboard using live Real Estate Metrics from Quandl/Zillow API to compare real estate metrics between zipcode pairs for the last 5 years.
 
 [Live Demo Link](https://tinyurl.com/zillowanalytics)
 
