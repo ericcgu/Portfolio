@@ -7,11 +7,12 @@ header:
 tags: [data-visualization]
 ---
 
+Before November 2017, Litecoin (LTC), a fork of Bitcoin (BTC), followed a close relationship with Bitcoin. Within a short period of Litecoin's price action diverging with Bitcoin, the market began heating up, ultimately approaching the all time high in December. 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ericgu/3.embed"></iframe>
 
 
-Before November 2017, Litecoin (LTC), a fork of Bitcoin (BTC), followed a close relationship with Bitcoin. Within a short period of Litecoin's price action diverging with Bitcoin, the market began heating up, ultimately approaching the all time high in December. 
+
 
 On December 10, 2017, Litecoin and Bitcoin diverged back to its normal relationship and the download trend ensued.
 
