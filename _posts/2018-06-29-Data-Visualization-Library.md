@@ -7,6 +7,7 @@ header:
 tags: [data-visualization]
 ---
 
+An collection of commonly used visualizations using Plotly. Code can be found on my Github.
 
 ## Map
 ![alt text](https://raw.githubusercontent.com/ericcgu/Data_Visualization/master/examples/mapheatmap/mapheatmap.png)
